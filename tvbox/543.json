@@ -261,6 +261,14 @@
     "api": "./lf_pushagent_min.js"
     }
   ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "http://122.116.119.235:8000/tv.m3u",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      "boot": true,
+    },
   "doh": [
     {
       "name": "Google",
