@@ -9,6 +9,7 @@
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
       "boot": true,
     },
+  ],
   "sites": [
     {
       "key": "本地",
