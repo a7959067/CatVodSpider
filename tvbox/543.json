@@ -37,16 +37,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"{
-    \"簡介\":\"col-pdtext-collapsecontent&&</p>\",
-    \"播放鏈接\":\"href=\\\"&&\\\"\",
-    \"副標題\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-    \"線路數組\":\"myui-panel_hd&&</div>\",
-    \"線路標題\":\"title\\\">&&</h3>\",
-    \"播放數組\":\"myui-content__listsort-list&&</div>\",
-    \"分類\":\"電影$1#電視劇$2#國產劇$13#港劇$hk#綜藝$tv_show#動漫$anime\",
-    \"分類url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
-    },
+    "ext":"{\"免嗅\":\"0\",\"播放數組\":\"class=\\\"myui-content__list sort-list scrollbar clearfix&&</ul>\",\"線路數組\":\"<h3 class=\\\"title\\\"&&/h3>\",\"分類\":\"國產電視劇$13#電視劇$2#動漫$4#綜藝$3\",\"分類url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
     {
       "key": "星星",
       "name": "星星",
