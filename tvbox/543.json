@@ -30,15 +30,22 @@
       "filterable": 0
     },
     {
-    "key":"csp_xBPQ_剧迷影院", 
-    "name":"剧迷影院(画质太差)", 
-    "type":3, 
-    "api":"csp_xBPQ", 
-    "searchable":1, 
-    "quickSearch":1, 
-    "filterable":0, 
-    "ext":"{\"免嗅\":\"0\",\"播放数组\":\"class=\\\"myui-content__list sort-list scrollbar clearfix&&</ul>\",\"线路数组\":\"<h3 class=\\\"title\\\"&&/h3>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"
-    },
+    "key":"csp_XBPQ_剧迷",
+    "name":"🍹剧迷",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"简介\":\"col-pdtext-collapsecontent&&</p>\",
+    \"播放链接\":\"href=\\\"&&\\\"\",
+    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+    \"线路数组\":\"myui-panel_hd&&</div>\",
+    \"线路标题\":\"title\\\">&&</h3>\",
+    \"播放数组\":\"myui-content__listsort-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$hk#综艺$tv_show#动漫$anime\",
+    \"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
     {
       "key": "星星",
       "name": "星星",
