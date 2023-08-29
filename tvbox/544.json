@@ -37,7 +37,8 @@
     "searchable":1, 
     "quickSearch":1, 
     "filterable":0, 
-    "ext":"{\"免嗅\":\"0\",\"播放数组\":\"class=\\\"myui-content__list sort-list scrollbar clearfix&&</ul>\",\"线路数组\":\"<h3 class=\\\"title\\\"&&/h3>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
+    "ext":"{\"免嗅\":\"0\",\"播放数组\":\"class=\\\"myui-content__list sort-list scrollbar clearfix&&</ul>\",\"线路数组\":\"<h3 class=\\\"title\\\"&&/h3>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#综艺$3\",\"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"
+    },
     {
       "key": "星星",
       "name": "星星",
