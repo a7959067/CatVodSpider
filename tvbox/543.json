@@ -37,16 +37,16 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"{
-      \"简介\":\"col-pdtext-collapsecontent&&</p>\",
-      \"播放链接\":\"href=\\\"&&\\\"\",
-      \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-      \"线路数组\":\"myui-panel_hd&&</div>\",
-      \"线路标题\":\"title\\\">&&</h3>\",
-      \"播放数组\":\"myui-content__listsort-list&&</div>\",
-      \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$hk#综艺$tv_show#动漫$anime\",
-      \"分类url\":\"https://gimy.tv/genre/{cateId}---{catePg}.html\"}"},
-      //
+      "ext":{
+        "简介":"col-pdtext-collapsecontent&&</p>",
+        "播放链接":"href=\\\"&&\\\"",
+        "副标题":"class=\\\"pic-text text-right\\\">&&</span>",
+        "线路数组":"myui-panel_hd&&</div>",
+        "线路标题":"title\\\">&&</h3>",
+        "播放数组":"myui-content__listsort-list&&</div>",
+        "分类":"电影$1#电视剧$2#国产剧$13#港剧$hk#综艺$tv_show#动漫$anime",
+        "分类url":"https://gimy.tv/genre/{cateId}---{catePg}.html"
+       }
     },
     {
       "key": "星星",
