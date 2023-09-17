@@ -33,7 +33,7 @@
       "key": "csp_xBPQ_剧迷线上看",
       "name": "剧迷线上看",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/a7959067/yilun/main/jar/csp_XBPQ.jar?token=GHSAT0AAAAAACHVA7GSKCRQY3D4AARAMOICZIHC4UQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
