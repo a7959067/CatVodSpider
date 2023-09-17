@@ -33,7 +33,7 @@
       "key": "csp_xBPQ_剧迷线上看",
       "name": "剧迷线上看",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
