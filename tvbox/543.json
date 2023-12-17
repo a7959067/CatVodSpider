@@ -1,11 +1,11 @@
 {
-  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;52a0e12f50e6acdcc575ff0ba1df4dd4",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "live",
-      "type": 0,
       "url": "http://122.116.119.235:8000/newtv.m3u",
+      "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
     }
@@ -89,7 +89,7 @@
     },
     {
       "key": "唐人街TV",
-      "name": "🦄唐人街TV",
+      "name": "唐人街TV",
       "type": 0,
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
       "searchable": 1,
