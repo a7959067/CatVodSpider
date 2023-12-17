@@ -6,7 +6,6 @@
             "name": "live",
             "url": "http://122.116.119.235:8000/newtv.m3u",
             "playerType": 2,
-            "ua": "VasCreativePlayer",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
