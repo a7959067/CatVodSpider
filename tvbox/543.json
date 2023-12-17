@@ -1,15 +1,15 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "lives": [
-    {
-      "name": "live",
-      "url": "http://122.116.119.235:8000/newtv.m3u",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-    }
-  ],
+    "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "lives": [
+        {
+            "name": "live",
+            "url": "http://122.116.119.235:8000/newtv.m3u",
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
   "sites": [
     {
       "key": "商店",
