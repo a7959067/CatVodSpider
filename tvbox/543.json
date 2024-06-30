@@ -49,7 +49,7 @@
       "key": "haiwaikan",
       "name": "海外看",
       "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
       "categories": [
