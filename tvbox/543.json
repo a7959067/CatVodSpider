@@ -21,12 +21,13 @@
       "ext": "https://fm.t4tv.hz.cz/json/market.json"
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
+     "key": "php_hmezy",
+     "name": "黑木耳php",
+     "type": 4,
+     "api": "https://demobe.serv00.net/heimuer.php",
+     "searchable": 1,
+     "quickSearch":0,
+     "filterable":0
     },
     {
       "key": "星星",
