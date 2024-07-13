@@ -244,7 +244,7 @@
     {
       "name": "黑木耳",
       "hosts": [
-        "php_hmezy"
+        "m3u8.hmrvideo.com"
       ],
       "regex": [
         "15.070000",
