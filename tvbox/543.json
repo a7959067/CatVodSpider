@@ -24,7 +24,7 @@
      "key": "php_hmezy",
      "name": "黑木耳",
      "type": 4,
-     "api": "http://122.116.119.235:8000/heimuer.php",
+     "api": "https://demobe.serv00.net/heimuer.php",
      "searchable": 1,
      "quickSearch":0,
      "filterable":0
