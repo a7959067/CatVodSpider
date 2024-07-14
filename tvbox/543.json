@@ -24,7 +24,7 @@
      "key": "php_hmezy",
      "name": "黑木耳",
      "type": 4,
-     "api": "https://demobe.serv00.net/heimuer.php",
+     "api": "http://122.116.119.235:8000/heimuer.php",
      "searchable": 1,
      "quickSearch":0,
      "filterable":0
@@ -244,11 +244,9 @@
     {
       "name": "黑木耳",
       "hosts": [
-        "api.heimuer.app"
+        "m3u8.hmrvideo.com"
       ],
       "regex": [
-        "10.000000",
-        "15.000000",
         "15.070000",
     	"14.970000",
     	"14.950000",
