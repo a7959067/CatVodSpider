@@ -24,11 +24,10 @@
      "key": "php_hmezy",
      "name": "黑木耳",
      "type": 4,
-     "api": "https://demobe.serv00.net/heimuer.php",
+     "api": "https://yilun.serv00.net/hemiur.php",
      "searchable": 1,
      "quickSearch":0,
      "filterable":0,
-     "playurl": "json:https://tang.hz.cz/jx/hmr?noads="
     },
     {
       "key": "星星",
