@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://raw.githubusercontent.com/a7959067/yilun/main/tvbox/1.m3u
+#EXT-X-SUB-URL https://reurl.cc/93zGWx
 
 
 #EXTINF:-1 group-title="未分类",開幕典禮 精華版
