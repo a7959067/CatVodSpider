@@ -1,6 +1,8 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE blank
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL 
+
 
 #EXTINF:-1 group-title="未分类",開幕典禮 精華版
 https://eltaottmobilevod-cds.cdn.hinet.net/vod/eltatv2/eltatv_sports-2024oly_0727_ch1_0120_3_1/eltatv-hls-cl/index.m3u8?token=bS7Ok4rU5qaV9XCH6JGLJA&expires=1722283039&ott_id=632936
